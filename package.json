@@ -37,7 +37,7 @@
     "yup": "^0.32.8"
   },
   "devDependencies": {
-    "@types/ioredis": "^4.19.4",
+    "@types/ioredis": "^4.26.5",
     "@typescript-eslint/eslint-plugin": "^4.4.1",
     "@typescript-eslint/parser": "^4.4.1",
     "chokidar-cli": "^2.1.0",
