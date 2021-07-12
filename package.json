@@ -21,7 +21,7 @@
     "@prisma/client": "2.19.0",
     "argon2": "^0.27.0",
     "emoji-regex": "^9.2.1",
-    "fastify": "^3.12.0",
+    "fastify": "^3.19.0",
     "fastify-cookie": "^5.1.0",
     "fastify-helmet": "^5.2.0",
     "fastify-redis": "^4.1.0",
